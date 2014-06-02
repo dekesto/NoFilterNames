@@ -1,0 +1,10 @@
+Package: com.dekesto.nofilternames
+Name: NoFilterNames
+Depends: mobilesubstrate, firmware (>= 7)
+Architecture: iphoneos-arm
+Description: Hide the live filter names
+Maintainer: Dekesto
+Author: Dekesto
+Section: Tweaks
+Version: 1.1.0-2
+Installed-Size: 88
